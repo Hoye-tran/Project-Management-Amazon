@@ -1,0 +1,80 @@
+C:\Users\Admin\source\repos\AMAZON\AMAZON\obj\Debug\AMAZON.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\AMAZON\AMAZON\obj\Debug\AMAZON.Properties.Resources.resources
+C:\Users\Admin\source\repos\AMAZON\AMAZON\obj\Debug\AMAZON.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\AMAZON\AMAZON\obj\Debug\AMAZON.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\AMAZON\AMAZON\bin\Debug\AMAZON.exe.config
+C:\Users\Admin\source\repos\AMAZON\AMAZON\bin\Debug\AMAZON.exe
+C:\Users\Admin\source\repos\AMAZON\AMAZON\bin\Debug\AMAZON.pdb
+C:\Users\Admin\source\repos\AMAZON\AMAZON\obj\Debug\AMAZON.login.resources
+C:\Users\Admin\source\repos\AMAZON\AMAZON\obj\Debug\AMAZON.exe
+C:\Users\Admin\source\repos\AMAZON\AMAZON\obj\Debug\AMAZON.pdb
+C:\Users\Admin\source\repos\AMAZON\AMAZON\obj\Debug\AMAZON.TableManager.resources
+C:\Users\Admin\source\repos\AMAZON\AMAZON\obj\Debug\AMAZON.AccountProfile.resources
+C:\Users\Admin\source\repos\AMAZON\AMAZON\bin\Debug\SQLConnection.dll
+C:\Users\Admin\source\repos\AMAZON\AMAZON\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Admin\source\repos\AMAZON\AMAZON\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Admin\source\repos\AMAZON\AMAZON\obj\Debug\AMAZON.csproj.CopyComplete
+C:\Users\Admin\source\repos\AMAZON\AMAZON\bin\Debug\Castle.Core.dll
+C:\Users\Admin\source\repos\AMAZON\AMAZON\bin\Debug\NSubstitute.dll
+C:\Users\Admin\source\repos\AMAZON\AMAZON\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\source\repos\AMAZON\AMAZON\bin\Debug\Castle.Core.xml
+C:\Users\Admin\source\repos\AMAZON\AMAZON\bin\Debug\NSubstitute.xml
+C:\Users\Admin\source\repos\AMAZON\AMAZON\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\source\repos\AMAZON\AMAZON\bin\Debug\Elasticsearch.Net.dll
+C:\Users\Admin\source\repos\AMAZON\AMAZON\bin\Debug\Nest.dll
+C:\Users\Admin\source\repos\AMAZON\AMAZON\bin\Debug\System.Buffers.dll
+C:\Users\Admin\source\repos\AMAZON\AMAZON\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\source\repos\AMAZON\AMAZON\bin\Debug\System.Memory.dll
+C:\Users\Admin\source\repos\AMAZON\AMAZON\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\source\repos\AMAZON\AMAZON\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\source\repos\AMAZON\AMAZON\bin\Debug\Elasticsearch.Net.pdb
+C:\Users\Admin\source\repos\AMAZON\AMAZON\bin\Debug\Elasticsearch.Net.xml
+C:\Users\Admin\source\repos\AMAZON\AMAZON\bin\Debug\Nest.pdb
+C:\Users\Admin\source\repos\AMAZON\AMAZON\bin\Debug\Nest.xml
+C:\Users\Admin\source\repos\AMAZON\AMAZON\bin\Debug\System.Buffers.xml
+C:\Users\Admin\source\repos\AMAZON\AMAZON\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\source\repos\AMAZON\AMAZON\bin\Debug\System.Memory.xml
+C:\Users\Admin\source\repos\AMAZON\AMAZON\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\source\repos\AMAZON\AMAZON\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\source\repos\AMAZON\AMAZON\obj\Debug\AMAZON.FormQLMua.resources
+C:\Users\Admin\source\repos\AMAZON\AMAZON\obj\Debug\AMAZON.FormQLBan.resources
+D:\HK 1 - 3\QTCSDL\NHOM\AMAZON(2)\AMAZON\AMAZON\bin\Debug\AMAZON.exe.config
+D:\HK 1 - 3\QTCSDL\NHOM\AMAZON(2)\AMAZON\AMAZON\bin\Debug\AMAZON.exe
+D:\HK 1 - 3\QTCSDL\NHOM\AMAZON(2)\AMAZON\AMAZON\bin\Debug\AMAZON.pdb
+D:\HK 1 - 3\QTCSDL\NHOM\AMAZON(2)\AMAZON\AMAZON\bin\Debug\Castle.Core.dll
+D:\HK 1 - 3\QTCSDL\NHOM\AMAZON(2)\AMAZON\AMAZON\bin\Debug\Elasticsearch.Net.dll
+D:\HK 1 - 3\QTCSDL\NHOM\AMAZON(2)\AMAZON\AMAZON\bin\Debug\Nest.dll
+D:\HK 1 - 3\QTCSDL\NHOM\AMAZON(2)\AMAZON\AMAZON\bin\Debug\NSubstitute.dll
+D:\HK 1 - 3\QTCSDL\NHOM\AMAZON(2)\AMAZON\AMAZON\bin\Debug\SQLConnection.dll
+D:\HK 1 - 3\QTCSDL\NHOM\AMAZON(2)\AMAZON\AMAZON\bin\Debug\System.Buffers.dll
+D:\HK 1 - 3\QTCSDL\NHOM\AMAZON(2)\AMAZON\AMAZON\bin\Debug\System.Data.SqlClient.dll
+D:\HK 1 - 3\QTCSDL\NHOM\AMAZON(2)\AMAZON\AMAZON\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\HK 1 - 3\QTCSDL\NHOM\AMAZON(2)\AMAZON\AMAZON\bin\Debug\System.Memory.dll
+D:\HK 1 - 3\QTCSDL\NHOM\AMAZON(2)\AMAZON\AMAZON\bin\Debug\System.Numerics.Vectors.dll
+D:\HK 1 - 3\QTCSDL\NHOM\AMAZON(2)\AMAZON\AMAZON\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\HK 1 - 3\QTCSDL\NHOM\AMAZON(2)\AMAZON\AMAZON\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\HK 1 - 3\QTCSDL\NHOM\AMAZON(2)\AMAZON\AMAZON\bin\Debug\Castle.Core.xml
+D:\HK 1 - 3\QTCSDL\NHOM\AMAZON(2)\AMAZON\AMAZON\bin\Debug\Elasticsearch.Net.pdb
+D:\HK 1 - 3\QTCSDL\NHOM\AMAZON(2)\AMAZON\AMAZON\bin\Debug\Elasticsearch.Net.xml
+D:\HK 1 - 3\QTCSDL\NHOM\AMAZON(2)\AMAZON\AMAZON\bin\Debug\Nest.pdb
+D:\HK 1 - 3\QTCSDL\NHOM\AMAZON(2)\AMAZON\AMAZON\bin\Debug\Nest.xml
+D:\HK 1 - 3\QTCSDL\NHOM\AMAZON(2)\AMAZON\AMAZON\bin\Debug\NSubstitute.xml
+D:\HK 1 - 3\QTCSDL\NHOM\AMAZON(2)\AMAZON\AMAZON\bin\Debug\System.Buffers.xml
+D:\HK 1 - 3\QTCSDL\NHOM\AMAZON(2)\AMAZON\AMAZON\bin\Debug\System.Data.SqlClient.xml
+D:\HK 1 - 3\QTCSDL\NHOM\AMAZON(2)\AMAZON\AMAZON\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\HK 1 - 3\QTCSDL\NHOM\AMAZON(2)\AMAZON\AMAZON\bin\Debug\System.Memory.xml
+D:\HK 1 - 3\QTCSDL\NHOM\AMAZON(2)\AMAZON\AMAZON\bin\Debug\System.Numerics.Vectors.xml
+D:\HK 1 - 3\QTCSDL\NHOM\AMAZON(2)\AMAZON\AMAZON\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\HK 1 - 3\QTCSDL\NHOM\AMAZON(2)\AMAZON\AMAZON\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\HK 1 - 3\QTCSDL\NHOM\AMAZON(2)\AMAZON\AMAZON\obj\Debug\AMAZON.csproj.AssemblyReference.cache
+D:\HK 1 - 3\QTCSDL\NHOM\AMAZON(2)\AMAZON\AMAZON\obj\Debug\AMAZON.AccountProfile.resources
+D:\HK 1 - 3\QTCSDL\NHOM\AMAZON(2)\AMAZON\AMAZON\obj\Debug\AMAZON.FormQLBan.resources
+D:\HK 1 - 3\QTCSDL\NHOM\AMAZON(2)\AMAZON\AMAZON\obj\Debug\AMAZON.FormQLMua.resources
+D:\HK 1 - 3\QTCSDL\NHOM\AMAZON(2)\AMAZON\AMAZON\obj\Debug\AMAZON.login.resources
+D:\HK 1 - 3\QTCSDL\NHOM\AMAZON(2)\AMAZON\AMAZON\obj\Debug\AMAZON.Properties.Resources.resources
+D:\HK 1 - 3\QTCSDL\NHOM\AMAZON(2)\AMAZON\AMAZON\obj\Debug\AMAZON.TableManager.resources
+D:\HK 1 - 3\QTCSDL\NHOM\AMAZON(2)\AMAZON\AMAZON\obj\Debug\AMAZON.csproj.GenerateResource.cache
+D:\HK 1 - 3\QTCSDL\NHOM\AMAZON(2)\AMAZON\AMAZON\obj\Debug\AMAZON.csproj.CoreCompileInputs.cache
+D:\HK 1 - 3\QTCSDL\NHOM\AMAZON(2)\AMAZON\AMAZON\obj\Debug\AMAZON.csproj.CopyComplete
+D:\HK 1 - 3\QTCSDL\NHOM\AMAZON(2)\AMAZON\AMAZON\obj\Debug\AMAZON.exe
+D:\HK 1 - 3\QTCSDL\NHOM\AMAZON(2)\AMAZON\AMAZON\obj\Debug\AMAZON.pdb
